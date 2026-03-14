@@ -1,0 +1,8 @@
+# Mengabaikan folder data mentah yang ukurannya besar
+data/raw/
+
+# Mengabaikan file sistem dan cache Python/Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
