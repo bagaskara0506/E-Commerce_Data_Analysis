@@ -6,7 +6,7 @@
 
 📊 **[KLIK DI SINI UNTUK MELIHAT INTERACTIVE DASHBOARD LOOKER STUDIO]**([MASUKKAN_LINK_LOOKER_STUDIO_DI_SINI])
 
-> 💡 **Tip:** Anda dapat menggunakan dashboard ini sebagai *template* untuk data Olist Anda sendiri. Buka tautan di atas, klik ikon tiga titik di pojok kanan atas, pilih **'Make a copy' (Buat salinan)**, dan hubungkan dengan dataset CSV Anda!
+> 💡 **Tip:** Anda dapat menggunakan dashboard ini sebagai _template_ untuk data Olist Anda sendiri. Buka tautan di atas, klik ikon tiga titik di pojok kanan atas, pilih **'Make a copy' (Buat salinan)**, dan hubungkan dengan dataset CSV Anda!
 
 ## 📌 Project Overview
 
